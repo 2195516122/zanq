@@ -1,0 +1,22 @@
+{
+  "name": "攒前 - 个人攒钱与记账",
+  "short_name": "攒前",
+  "description": "轻量级个人理财工具，记录收支、攒钱目标、数据分析",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
