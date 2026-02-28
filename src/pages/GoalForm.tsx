@@ -64,7 +64,7 @@ export default function GoalForm() {
                 type="button"
                 onClick={() => setColor(c)}
                 className={`h-8 w-8 rounded-full transition-transform ${color === c ? 'scale-125 ring-2 ring-offset-2' : 'hover:scale-110'}`}
-                style={{ backgroundColor: c, ringColor: c }}
+                style={{ backgroundColor: c }}
               />
             ))}
           </div>
